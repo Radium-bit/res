@@ -35,7 +35,7 @@ function loadWidget(config) {
 		return Array.isArray(obj) ? obj[Math.floor(Math.random() * obj.length)] : obj;
 	}
 	// 检测用户活动状态，并在空闲时显示消息
-	let userAction = false,
+	let userAction = true,
 		userActionTimer,
 		messageTimer,
 		messageArray = ["好久不见，日子过得好快呢……", "大坏蛋！你都多久没理人家了呀，嘤嘤嘤～", "嗨～快来逗我玩吧！", "拿小拳拳锤你胸口！", "记得把小家加入 Adblock 白名单哦！"];
