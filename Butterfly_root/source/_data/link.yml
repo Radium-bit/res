@@ -1,0 +1,13 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: FLY_MC
+      link: https://www.flymc.top
+      avatar: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Blog-Resources/img/avatar.jpg
+      descr: 是我的朋友，也是火绒论坛中的自定规则包创作者&#44;也是个大佬
+    2:
+      name: 186526
+      link: https://186526.club
+      avatar: https://186526.club/images/avatar.jpg
+      descr: 在BiliBili上交换友链的朋友w~
