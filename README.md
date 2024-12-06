@@ -1,7 +1,5 @@
 # LICENSE 
 Copyright (C) 2019 Radium-bit  
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
 
 This is the Blog resources call area.
 1. Without permission, no one may modify or republish any document.
